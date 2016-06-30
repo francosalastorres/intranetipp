@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.intranetipp.pe" resolutions="1x" timestamp="1467318954395">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-p_g_-maestra.css" crc="155603211" ref="pagos:index:información-general:mis-datos:biblioteca:matrícula"/>
+    <file name="pagos.css" crc="457544348" ref="pagos"/>
+    <file name="index.css" crc="457544348" ref="index"/>
+    <file name="informaci_n-general.css" crc="457544348" ref="información-general"/>
+    <file name="mis-datos.css" crc="457544348" ref="mis-datos"/>
+    <file name="biblioteca.css" crc="457544348" ref="biblioteca"/>
+    <file name="matr_cula.css" crc="457544348" ref="matrícula"/>
+  </folder>
+  <folder name="fonts">
+    <file name="oswald.light-webfont.woff" crc="517406336"/>
+    <file name="oswald.light-webfont.eot" crc="111495615"/>
+    <file name="oswald.light-webfont.svg" crc="4224618959"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="museutils.js" crc="3790713428" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="whatinput.js" crc="84559013" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+  </folder>
+  <folder name="images">
+    <file name="x.png" crc="437223617" seo="true" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="maxresdefault-u2285-fr.png" crc="4155069062" ref="index"/>
+    <file name="logotipo.png" crc="170383720" seo="true" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+  </folder>
+  <file name="index.html" crc="481340274" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="matrícula.html" crc="183199394" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="mis-datos.html" crc="517067073" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="información-general.html" crc="289541907" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="biblioteca.html" crc="28886801" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="pagos.html" crc="279515015" seo="true" mt="1467318901884" redirect="true"/>
+</manifest>
