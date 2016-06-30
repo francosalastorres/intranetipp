@@ -1,13 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.intranetipp.pe" resolutions="1x" timestamp="1467318954395">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.intranetippPERU.pe" resolutions="1x" timestamp="1467321166466">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_a-p_g_-maestra.css" crc="155603211" ref="pagos:index:información-general:mis-datos:biblioteca:matrícula"/>
-    <file name="pagos.css" crc="457544348" ref="pagos"/>
-    <file name="index.css" crc="457544348" ref="index"/>
-    <file name="informaci_n-general.css" crc="457544348" ref="información-general"/>
-    <file name="mis-datos.css" crc="457544348" ref="mis-datos"/>
-    <file name="biblioteca.css" crc="457544348" ref="biblioteca"/>
-    <file name="matr_cula.css" crc="457544348" ref="matrícula"/>
+    <file name="master_a-p_g_-maestra.css" crc="3849564749" ref="pagos:index:mis-datos:biblioteca:informacion-general:matricula"/>
+    <file name="pagos.css" crc="161847823" ref="pagos"/>
+    <file name="index.css" crc="221792817" ref="index"/>
+    <file name="mis-datos.css" crc="161847823" ref="mis-datos"/>
+    <file name="biblioteca.css" crc="161847823" ref="biblioteca"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="431807913" ref="pagos:index:informacion-general:mis-datos:biblioteca:matricula"/>
+    <file name="nomq_index.css" crc="4154454610" ref="index"/>
+    <file name="informacion-general.css" crc="161847823" ref="informacion-general"/>
+    <file name="matricula.css" crc="161847823" ref="matricula"/>
   </folder>
   <folder name="fonts">
     <file name="oswald.light-webfont.woff" crc="517406336"/>
@@ -15,23 +17,28 @@
     <file name="oswald.light-webfont.svg" crc="4224618959"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="museutils.js" crc="3790713428" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="whatinput.js" crc="84559013" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="museutils.js" crc="3790713428" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="whatinput.js" crc="84559013" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:matricula"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="x.png" crc="437223617" seo="true" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
-    <file name="maxresdefault-u2285-fr.png" crc="4155069062" ref="index"/>
-    <file name="logotipo.png" crc="170383720" seo="true" ref="index:matrícula:mis-datos:información-general:biblioteca:pagos"/>
+    <file name="x.png" crc="437223617" seo="true" ref="index:mis-datos:biblioteca:pagos:matricula:informacion-general"/>
+    <file name="maxresdefault-u2285-fr.png" crc="4155069062" ref="index:matricula"/>
+    <file name="logotipo.png" crc="170383720" seo="true" ref="index"/>
+    <file name="circulitos.png" crc="4115230884" seo="true" ref="index"/>
+    <file name="convenios.gif" crc="3847437825" seo="true" ref="index:matricula:mis-datos:informacion-general:biblioteca:pagos"/>
+    <file name="circulitos736x372.png" crc="4115230884" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="481340274" seo="true" mt="1467318901884" redirect="true"/>
-  <file name="matrícula.html" crc="183199394" seo="true" mt="1467318901884" redirect="true"/>
-  <file name="mis-datos.html" crc="517067073" seo="true" mt="1467318901884" redirect="true"/>
-  <file name="información-general.html" crc="289541907" seo="true" mt="1467318901884" redirect="true"/>
-  <file name="biblioteca.html" crc="28886801" seo="true" mt="1467318901884" redirect="true"/>
-  <file name="pagos.html" crc="279515015" seo="true" mt="1467318901884" redirect="true"/>
+  <file name="index.html" crc="45649696" seo="true" mt="1467321049090" redirect="true"/>
+  <file name="mis-datos.html" crc="4138587151" seo="true" mt="1467321049090" redirect="true"/>
+  <file name="biblioteca.html" crc="106799899" seo="true" mt="1467321049090" redirect="true"/>
+  <file name="pagos.html" crc="3776879332" seo="true" mt="1467321049090" redirect="true"/>
+  <file name="matricula.html" crc="312618515" seo="true" mt="1467321049090" redirect="true"/>
+  <file name="informacion-general.html" crc="311960625" seo="true" mt="1467321049090" redirect="true"/>
 </manifest>

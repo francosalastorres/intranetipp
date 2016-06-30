@@ -4,19 +4,19 @@
 
 .version.pagos /* version checker */
 {
-	color: #00001B;
-	background-color: #45929C;
+	color: #000009;
+	background-color: #A59A0F;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 461px;
+	min-height: 883.6006240249611px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 39px;
+	padding-bottom: 22.39937597503888px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -39,7 +39,7 @@
 
 #u901
 {
-	z-index: 40;
+	z-index: 41;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -49,7 +49,7 @@
 
 #u1012-4
 {
-	z-index: 42;
+	z-index: 43;
 	min-height: 20px;
 	position: relative;
 	margin-right: -10000px;
@@ -433,26 +433,29 @@
 
 #menuu767,#menuu767-bw
 {
-	z-index: 3;
+	z-index: 4;
 	min-height: 38px;
 }
 
-#u2285
+#u2285,#u2285-bw
 {
-	z-index: 46;
-	padding-bottom: 383px;
-	position: relative;
-	width: 100%;
+	z-index: 3;
+	height: 752px;
 }
 
-#u1321
+#u3268,#u3268-bw
 {
 	z-index: 47;
+	height: 751px;
+}
+
+#u3281
+{
+	z-index: 48;
+	margin-top: 63px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 26px;
-	width: 12.3%;
-	left: 43.86%;
+	width: 56.98%;
+	margin-left: 20.11%;
 }
 
 #muse_css_mq,.html
@@ -466,7 +469,7 @@ body
 	min-width: 320px;
 }
 
-#u1321_img
+#pu2285,#u3281_img
 {
 	width: 100%;
 }

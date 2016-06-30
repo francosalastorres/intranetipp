@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.intranetipp.pe/images/x.png</loc>
+    <loc>http://www.intranetippPERU.pe/images/x.png</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/images/logotipo.png</loc>
+    <loc>http://www.intranetippPERU.pe/images/logotipo.png</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/index.html</loc>
+    <loc>http://www.intranetippPERU.pe/images/circulitos.png</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/matr%C3%ADcula.html</loc>
+    <loc>http://www.intranetippPERU.pe/images/convenios.gif</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/mis-datos.html</loc>
+    <loc>http://www.intranetippPERU.pe/images/circulitos736x372.png</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/informaci%C3%B3n-general.html</loc>
+    <loc>http://www.intranetippPERU.pe/index.html</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/biblioteca.html</loc>
+    <loc>http://www.intranetippPERU.pe/mis-datos.html</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.intranetipp.pe/pagos.html</loc>
+    <loc>http://www.intranetippPERU.pe/biblioteca.html</loc>
+    <lastmod>2016-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.intranetippPERU.pe/pagos.html</loc>
+    <lastmod>2016-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.intranetippPERU.pe/matricula.html</loc>
+    <lastmod>2016-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.intranetippPERU.pe/informacion-general.html</loc>
     <lastmod>2016-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
